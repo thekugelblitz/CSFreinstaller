@@ -72,6 +72,8 @@ Maintained & Developed by **Dhruval Joshi** from **[HostingSpell](https://hostin
 GitHub Profile: [@thekugelblitz](https://github.com/thekugelblitz) | 
 This was created by Dhruval Joshi to use at HostingSpell and optimized with the help of GPT4 later.
 
+---
+
 If you want to contribute, feel free to fork and submit a PR! 🚀
 
 Pull requests and contributions are welcome!
